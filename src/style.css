@@ -1,0 +1,144 @@
+header {
+    box-sizing: border-box;
+    width: 800px;
+    height: 80px;
+    left: 50px;
+    top: 26px;
+    border: 2px solid #000000;
+    position: absolute;
+}
+
+#title {
+    width: 77px;
+    height: 35px;
+    left: 94px;
+    top: 49px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    margin-left: 30px;
+}
+
+.banner{
+    box-sizing: border-box;
+    width: 801px;
+    height: 284px;
+    left: 49px;
+    top: 136px;
+    background: #C4C4C4;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    position: absolute;
+}
+
+#image{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.ingredients{  
+    box-sizing: border-box;
+    width: 550px;
+    height: 350px;
+    left: 49px;
+    top: 450px;
+    border: 1px solid #000000;
+    position: absolute;
+}
+
+h2{
+    margin-left: 30px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.checklist{
+    list-style-type: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;   
+}
+
+#timing{
+    box-sizing: border-box;
+    position: absolute;
+    width: 194px;
+    height: 350px;
+    left: 656px;
+    top: 450px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 20px;
+}
+
+#time{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    margin: 25px;
+}
+
+#preparation-time{
+    
+    box-sizing: border-box;
+    width: 145px;
+    height: 45px;
+    border: 1px solid #000000;
+    margin: 25px;
+}
+
+#cooking-time{
+    box-sizing: border-box;
+    width: 145px;
+    height: 45px;
+    border: 1px solid #000000;
+    margin: 25px;
+}
+
+#preparation{
+    position: absolute;
+    box-sizing: border-box;
+    width: 550px;
+    height: 350px;
+    left: 49px;
+    top: 857px;
+    border: 1px solid #000000;
+    font-family: "Roboto", sans-serif;
+}
+
+.preparation-list{
+    margin-right: 150px;
+}
+
+footer{
+    position: absolute;
+    box-sizing: border-box;
+    width: 800px;
+    height: 40px;
+    left: 50px;
+    top: 1249px;
+    border: 2px solid #000000;
+}
+
+#footer-text{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
